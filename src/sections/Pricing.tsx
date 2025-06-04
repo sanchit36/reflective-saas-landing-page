@@ -60,7 +60,7 @@ export const Pricing = () => {
         <div className="section-heading">
           <h2 className="section-title">Pricing</h2>
           <p className="section-description mt-5">
-            Free forever. Urgrade for unlimited tasks, better security, and
+            Free forever. Upgrade for unlimited tasks, better security, and
             exclusive features
           </p>
         </div>
